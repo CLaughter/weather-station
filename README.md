@@ -1,4 +1,5 @@
-# group-project-1b
+https://claughter.github.io/weather-station/
+
 Coding Bootcamp Group Project 1
 Nick Mikstas, Tyler Webb, Chris Laughter, Elijah Lanza
 
